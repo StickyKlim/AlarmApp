@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="categorieName">Category Name</string>
+    <string name="desc">desc</string>
+    <string name="categoryName">categoryName</string>
+    <string name="category">category</string>
+    <string name="method">method</string>
+</resources>
